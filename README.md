@@ -24,7 +24,7 @@ then you will be able to access your projects directly using:
 
 then, add the line below in your .bash_profile or .zshrc
 ```shell
-source ~/my_terminal/index.sh
+source ~/nomad-term/index.sh
 ```
 
 finally run the command below to use the commands as per your shell
